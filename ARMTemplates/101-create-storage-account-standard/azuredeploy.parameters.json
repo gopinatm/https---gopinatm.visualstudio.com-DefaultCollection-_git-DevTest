@@ -1,0 +1,11 @@
+{
+    "newStorageAccountName" : {
+        "value" : "gopistorageviaarm"
+    },
+    "storageAccountType": {
+        "value": "Standard_GRS"
+    },
+    "location": {
+        "value": "Southeast Asia"
+    }
+}

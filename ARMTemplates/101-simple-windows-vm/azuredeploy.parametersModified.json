@@ -1,0 +1,15 @@
+{
+
+	"newStorageAccountName": {
+		"value": "gopidevteststorageacc"
+	},
+	"adminUsername": {
+		"value": "gopinatm"
+	},
+	"adminPassword": {
+		"value": "P@ssw0rd123"
+	},
+	"dnsNameForPublicIP": {
+		"value": "armdnsname"
+	}
+}
